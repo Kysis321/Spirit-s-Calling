@@ -1,0 +1,44 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.HorizonUI.cpp.obj": [
+			"HorizonDialogueMsgDecorator.cpp.obj",
+			"HorizonFileSystem.cpp.obj",
+			"HorizonUIModule.cpp.obj",
+			"ProductTests.cpp.obj",
+			"SmokeTests.cpp.obj",
+			"HorizonButtonUserWidget.cpp.obj",
+			"HorizonDesignableUserWidget.cpp.obj",
+			"HorizonMultiToggleButtonWidget.cpp.obj",
+			"HorizonRadioButtonUserWidget.cpp.obj",
+			"HorizonUserWidget.cpp.obj",
+			"HorizonButton.cpp.obj",
+			"HorizonDialogueMsgTextBlock.cpp.obj",
+			"HorizonFlipbookWidget.cpp.obj",
+			"HorizonImage.cpp.obj",
+			"HorizonRadioButton.cpp.obj",
+			"HorizonTextBlock.cpp.obj",
+			"HorizonTileView.cpp.obj",
+			"HorizonDialogueStyleInfo.cpp.obj",
+			"HorizonWidgetFunctionLibrary.cpp.obj"
+		],
+		"Module.HorizonUI.gen.cpp.obj": [
+			"HorizonButton.gen.cpp.obj",
+			"HorizonButtonUserWidget.gen.cpp.obj",
+			"HorizonDesignableUserWidget.gen.cpp.obj",
+			"HorizonDialogueMsgDecorator.gen.cpp.obj",
+			"HorizonDialogueMsgTextBlock.gen.cpp.obj",
+			"HorizonDialogueStyleInfo.gen.cpp.obj",
+			"HorizonFileSystem.gen.cpp.obj",
+			"HorizonFlipbookWidget.gen.cpp.obj",
+			"HorizonImage.gen.cpp.obj",
+			"HorizonMultiToggleButtonWidget.gen.cpp.obj",
+			"HorizonRadioButtonUserWidget.gen.cpp.obj",
+			"HorizonTextBlock.gen.cpp.obj",
+			"HorizonTileView.gen.cpp.obj",
+			"HorizonUI.init.gen.cpp.obj",
+			"HorizonUserWidget.gen.cpp.obj",
+			"HorizonWidgetFunctionLibrary.gen.cpp.obj"
+		]
+	}
+}
