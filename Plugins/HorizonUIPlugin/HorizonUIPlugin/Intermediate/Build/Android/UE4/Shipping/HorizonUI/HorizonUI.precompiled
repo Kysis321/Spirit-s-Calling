@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.HorizonUI.cppa7.o",
+		"Module.HorizonUI.cppa8.o",
+		"Module.HorizonUI.gen.cppa7.o",
+		"Module.HorizonUI.gen.cppa8.o"
+	]
+}
